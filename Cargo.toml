@@ -1,0 +1,9 @@
+[package]
+name = "vm_sim"
+version = "0.1.0"
+authors = ["Jacob Meyers <jmeyers35@gatech.edu>"]
+edition = "2018"
+
+[dependencies]
+arrayvec = "0.4.10"
+clap = "2.32.0"

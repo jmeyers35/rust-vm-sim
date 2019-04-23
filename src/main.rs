@@ -88,5 +88,5 @@ fn main() -> std::io::Result<()> {
 }
 
 fn simulate_command(command: String) {
-
+    
 }
